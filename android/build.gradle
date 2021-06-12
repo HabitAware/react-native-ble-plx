@@ -46,5 +46,5 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"
-    implementation 'com.github.HabitAware:MultiPlatformBleAdapter:1.0.0-beta'
+    implementation 'com.github.HabitAware:MultiPlatformBleAdapter:bc32a2c'
 }
